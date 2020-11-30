@@ -1,4 +1,14 @@
+# Aristotelis Bobas
 I'm a Software Engineering student at [Codam](https://www.codam.nl/en/about-codam) (part of the [42 Network](https://en.wikipedia.org/wiki/42_(school))). <br>
-Here you'll find projects from the 42 curriculum and personal work.
+Here you'll find projects from the 42 curriculum and other stuff I've worked on.
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aristotelis-bobas&count_private=true&theme=algolia&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristotelis-bobas&layout=compact&theme=algolia)](https://github.com/aristotelis-bobas/github-readme-stats)
+
+<p>
 
 <a href= "https://www.linkedin.com/in/aristotelis-bobas/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:aristotelis.bobas@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+
+</p>
