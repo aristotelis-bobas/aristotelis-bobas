@@ -5,7 +5,7 @@ Here you'll find projects from the 42 curriculum and other stuff I've worked on.
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aristotelis-bobas&count_private=true&theme=algolia&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristotelis-bobas&layout=compact&theme=algolia)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristotelis-bobas&layout=compact&theme=algolia)
 
 <p>
 
