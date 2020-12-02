@@ -1,6 +1,7 @@
 # Aristotelis Bobas
+
 I'm a Software Engineering student at [Codam](https://www.codam.nl/en/about-codam) (part of the [42 Network](https://en.wikipedia.org/wiki/42_(school))). <br>
-Here you'll find projects from the 42 curriculum and other stuff I've worked on.
+Here you'll find the projects I have worked on.
 
 
 
