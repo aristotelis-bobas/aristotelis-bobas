@@ -5,8 +5,8 @@ Here you'll find the projects I have worked on.
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aristotelis-bobas&count_private=true&theme=algolia&show_icons=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristotelis-bobas&layout=compact&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=aristotelis-bobas&count_private=true&theme=buefy&show_icons=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristotelis-bobas&layout=compact&theme=buefy)
 
 <p>
 
