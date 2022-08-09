@@ -1,6 +1,6 @@
 # Aristotelis Bobas
 
-Currently employed as Software Engineer at TomTom.
+Currently employed as [Software Engineer at TomTom](https://github.com/AristotelispetrosBobas-TomTom).
 Studied Software Engineering at [Codam](https://www.codam.nl/en/about-codam) (part of the [42 Network](https://en.wikipedia.org/wiki/42_(school))). <br>
 Here you'll find the projects I have worked on during my time at Codam.
 
